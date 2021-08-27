@@ -32,6 +32,7 @@
 *.exe
 *.out
 *.app
+lander
 
 ##### VIM #####
 #
